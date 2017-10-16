@@ -1,2 +1,3 @@
 # Lab1-Dropbox-Calc
-#Dropbox application using REST Services (Node.js and ReactJS)
+#Dropbox application using RESTful Services (Node.js and ReactJS)
+#Calculator application using RESTful Servicers(Node.js and ReactJS)
